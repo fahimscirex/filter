@@ -1,0 +1,29 @@
+! 2022-10-31 https://www.apkmirror.com
+www.apkmirror.com##div.listWidget:nth-of-type(5)
+
+! 2022-12-05 https://www.youtube.com
+www.youtube.com##.ryd-tooltip-bar-container
+www.youtube.com##.ryd-tooltip
+
+! 2022-12-07 https://www.reddit.com
+www.reddit.com###redesign-beta-optin-btn
+
+! 2022-12-08 https://savelinks.me
+savelinks.me##center
+
+! 2022-12-09 https://www.goodreads.com
+www.goodreads.com##.siteHeader__topFullImageContainer
+www.goodreads.com##.choiceWidget
+www.goodreads.com##.gr-mediaFlexbox--columnDirection.gr-mediaFlexbox.siteAnnouncement
+www.goodreads.com##.homeTertiaryColumn > div > footer
+
+! 2022-12-13 https://mega4upload.com
+mega4upload.com##div.col-xl-12 > center
+
+! 2022-12-13 https://www.reddit.com
+www.reddit.com##._2t7TYn6HwRZQwKXG47kpQR._23q1waDr4n_2fR5A7zcZzb.x0hiXHicn7r3BG9m1FJH4
+www.reddit.com##._1dBtowHdRHcGyLbVEaOL8t._2I12Htze2UzJmmfnrgYJOn._2zZ-KGHbWWqrwGlHWXR90y
+www.reddit.com##.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT._3hna43Sh0DTnoV7v2NNc2r
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(1)
+www.reddit.com##._1tvThPWQpORoc2taKebHxs._3Kd8DQpBIbsr5E1JcrMFTY
+
