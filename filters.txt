@@ -24,6 +24,31 @@ mega4upload.com##div.col-xl-12 > center
 www.reddit.com##._2t7TYn6HwRZQwKXG47kpQR._23q1waDr4n_2fR5A7zcZzb.x0hiXHicn7r3BG9m1FJH4
 www.reddit.com##._1dBtowHdRHcGyLbVEaOL8t._2I12Htze2UzJmmfnrgYJOn._2zZ-KGHbWWqrwGlHWXR90y
 www.reddit.com##.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT._3hna43Sh0DTnoV7v2NNc2r
-www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(1)
-www.reddit.com##._1tvThPWQpORoc2taKebHxs._3Kd8DQpBIbsr5E1JcrMFTY
+!www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(1)
+!www.reddit.com##._1tvThPWQpORoc2taKebHxs._3Kd8DQpBIbsr5E1JcrMFTY
 
+! 2022-12-24 https://you.com
+you.com##.cwyVId.sc-27ea2d0c-0
+you.com##.bcVigg.sc-ffdc2533-0.kaYVyM.sc-7ad086e8-0
+you.com##.dwJa-dY.sc-deb44f1a-2
+you.com##.kTNMNn.sc-aa45d2c7-13
+
+! 2022-12-24 https://mlsbd.shop
+mlsbd.shop##.widget_text.widget
+mlsbd.shop##.site-info
+
+! 2022-12-24 https://www.youtube.com
+www.youtube.com###secondary
+www.youtube.com##.size-default.style-default.ytd-button-renderer.style-scope
+
+! 2023-01-09 https://reflectionnews.com
+||bdbuynsell.com/wp-content/uploads/2016/08/website-ads.jpg$image
+
+! 2023-01-26 https://www.prothomalo.com
+www.prothomalo.com##.adsBox.print-adslot
+www.prothomalo.com##.dfp-ad-unit
+www.prothomalo.com##.adsBox
+www.prothomalo.com##.ad-bottom-container
+
+! 2023-02-13 https://forum.mobilism.org
+forum.mobilism.org##.notifier-box
